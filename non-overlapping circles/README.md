@@ -27,7 +27,9 @@ Better results can be produced with a suitable color palette.
 
 ### To-Do
 
--[ ] Color selection correlated with the coordinates and radii of the created circles -[ ] Making the position of the circular frame clear on the canvas -[ ] Add more complexity
+- [ ] Color selection correlated with the coordinates and radii of the created circles
+- [ ] Making the position of the circular frame clear on the canvas
+- [ ] Add more complexity
 
 It was a project that I had a lot of fun. The limits of geometry, randomness and imagination are endless. :face_in_clouds:
 
