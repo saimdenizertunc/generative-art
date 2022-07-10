@@ -1,2 +1,3 @@
-# generative-art
+# Generative Art
+
 algorithmically generating new ideas, forms, shapes, colors, patterns...
