@@ -8,4 +8,4 @@ Program iteratively repeats the same steps: setting random x and y coordinates o
 
 - Created Bubble must not extend beyond the invisible circle frame around the canvas. (some analytical geometry)
 
-![Invisible frame](https://imgur.com/a/jrDBE3E)
+![Invisible frame](https://i.imgur.com/jnaH0HE.png)
