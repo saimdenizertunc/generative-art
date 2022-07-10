@@ -2,4 +2,4 @@
 
 algorithmically generating new ideas, forms, shapes, colors, patterns...
 
-[Non-Overlapping Circles](non-overlapping%20circles/README.md)
+## \*[Non-overlapping Circles using Python and Processing](non-overlapping%20circles/README.md)
