@@ -3,7 +3,9 @@
 An experimental generative art work using Python and Processing
 
 A random try:
+
 ![Demo1](https://i.imgur.com/dJvHe3P.gif)
+
 Of course, we get different output every time we run it.
 
 ## Logic
