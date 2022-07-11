@@ -2,4 +2,6 @@
 
 algorithmically generating new ideas, forms, shapes, colors, patterns...
 
-## 1- [Non-overlapping Circles using Python and Processing](non-overlapping%20circles/README.md)
+## 1- [Non-overlapping Circles](non-overlapping%20circles/README.md)
+
+## 2- [Mandelbrot Set](mandelbrot/README.md)
