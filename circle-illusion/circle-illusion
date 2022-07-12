@@ -1,0 +1,19 @@
+# Requires the Python mode for Processing.
+
+Height = 1000
+Width = 1000
+
+
+def setup():
+    global Height, Width
+    size(Width, Height)
+
+
+def draw():
+    for i in range(100, 0, -3):
+        if(i % 2 == 0):
+            fill(0, 0, 40)
+        else:
+            fill(255, 190, 0)
+        ellipse(width/2+8*sin(frameCount/12-i/2), height /
+                2+8*cos(frameCount/12-i/2), 15*i, 15*i)
