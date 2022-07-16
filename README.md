@@ -2,8 +2,8 @@
 
 algorithmically generating new ideas, forms, shapes, colors, patterns...
 
-## 1- [Non-overlapping Circles](non-overlapping%20circles/README.md)
+### 1- [Non-overlapping Circles](non-overlapping%20circles/README.md)
 
-## 2- [Mandelbrot Set](mandelbrot/README.md)
+### 2- [Mandelbrot Set](mandelbrot/README.md)
 
-## 3- [Circle Illusion](circle-illusion/README.md)
+### 3- [Circle Illusion](circle-illusion/README.md)
