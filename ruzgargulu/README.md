@@ -1,3 +1,3 @@
 # Ruzgargulu
 
-![demo](https://imgur.com/a/tvEmztP)
+[demo](https://imgur.com/a/tvEmztP)
